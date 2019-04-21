@@ -26,5 +26,5 @@ Route::get('/locale/{locale}',  function ($locale) {
 ```
 <a class="nav-link" href="/locale/{{ config('app.locale') === 'en'?'ru':'en' }}"></a>
 ```
-And here we are! this link will toggle lang. We used `ru/en` in example, as for you - use the languege you want
+And here we are! This link will toggle lang. We used `ru/en` in example, as for you - use the languege you want
 ##### Working logic you can see on the site [5kslov.ru](http://5kslov.ru/)
