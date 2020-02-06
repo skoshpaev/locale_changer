@@ -1,0 +1,12 @@
+{
+  "name": "skoshpaev/locale_changer",
+  "description": "locale changer for laravel",
+  "type": "scripts",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stanislav Koshpaev",
+      "email": "sts.ko@mail.ru"
+    }
+  ]
+}
